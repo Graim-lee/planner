@@ -1,0 +1,25 @@
+{
+  "name": "planner",
+  "productName": "Planner",
+  "version": "1.0.0",
+  "description": "Planner for students",
+  "homepage": "https://github.com/Graim-lee/planner#readme",
+  "bugs": {
+    "url": "https://github.com/Graim-lee/planner/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Graim-lee/planner.git"
+  },
+  "license": "ISC",
+  "author": "Jérémy Sagnard",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^38.0.0",
+    "electronmon": "^0.5.1"
+  }
+}
